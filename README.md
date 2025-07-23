@@ -13,6 +13,11 @@ A11yPlus is a Chrome Extension designed to improve web accessibility for visuall
 - Lightweight and fast
 - No server or data collection
 
+## 🚀 Screenshots
+<img width="485" height="262" alt="Extension" src="https://github.com/user-attachments/assets/f15f2428-76f3-45b0-98ff-07a24d1682c1" />
+<img width="402" height="413" alt="popup UI" src="https://github.com/user-attachments/assets/e9e1ae9c-d46b-4cf0-9c41-b0cd2a686c39" />
+<img width="1895" height="416" alt="contrast mode" src="https://github.com/user-attachments/assets/2d69622a-aec7-4bc6-b320-d47bfb9704dc" />
+
 ## 🛠️ Built With
 
 - HTML, CSS, JavaScript
