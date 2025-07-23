@@ -30,5 +30,5 @@ A11yPlus is a Chrome Extension designed to improve web accessibility for visuall
 
 ## 👩‍💻 Created By
 
-Your Name(s) or Team Name  
-[Devpost Project Link](https://your-devpost-link.com)
+Amna Tariq
+
