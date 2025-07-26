@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>A11y+</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="container">
@@ -13,7 +13,17 @@
     <button id="contrastToggle">🌓 Toggle High Contrast</button>
     <button id="increaseFont">🔎 Increase Font</button>
     <button id="decreaseFont">🔍 Decrease Font</button>
+    <button id="voiceCommand">🎙️ Voice Command</button>
+    <button id="summarizeText">🧠 Summarize</button>
+
+    <div id="summaryResult"></div>
+
+    <canvas id="usageChart" width="300" height="200"></canvas>
   </div>
+
+  <script src="chart.min.js"></script>
+
   <script src="popup.js"></script>
+  
 </body>
 </html>
